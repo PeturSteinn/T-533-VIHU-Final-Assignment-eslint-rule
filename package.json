@@ -1,0 +1,24 @@
+{
+  "name": "@petursteinn/t-533-vihu-final-assignment-eslint-rule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeturSteinn/T-533-VIHU-Final-Assignment-eslint-rule.git"
+  },
+  "keywords": [],
+  "author": "PeturSteinn",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.27.3",
+    "eslint": "^8.33.0"
+  },
+  "bugs": {
+    "url": "https://github.com/PeturSteinn/T-533-VIHU-Final-Assignment-eslint-rule/issues"
+  },
+  "homepage": "https://github.com/PeturSteinn/T-533-VIHU-Final-Assignment-eslint-rule#readme"
+}
